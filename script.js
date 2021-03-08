@@ -51,7 +51,7 @@ function displayAdditionQuestion() {
 function displaySubtractQuestion() {
 
 
-
+}
 function displayMultiplyQuestion() {
 
 }
